@@ -1,1 +1,1 @@
-test bookings and menu
+test booking and menu
